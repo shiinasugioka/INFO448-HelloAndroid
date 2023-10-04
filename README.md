@@ -145,3 +145,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+## Extra Credit
+* The video can be found under the `screenshots` subdirectory
+* I took a look at the `Pointer Location` developer option. This feature displayed information on the current pointer location as well as a trace of the path taken by the movement. On the top there was a bar with the exact location and other statistics. I believe I will use this feature during the course of this class. Statistics such as "coordinates of touch point", "pressure being applied", and "size of touch point" will be helpful when considering responsiveness of app and dimensions of the UI features.
